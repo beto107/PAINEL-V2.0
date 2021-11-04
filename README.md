@@ -23,7 +23,7 @@ __Comando para instalar new__
 * 2 Apos instalar o script do painel em uma nova vps, coloque o arquivo (painel.sql) no diretório /root da nova vps, via SFTP
 * 3 Execulte o comando abaixo e seja feliz !
 
-# INSTALA��O BACKUP-PAINEL-V20 (Script de restauração da base de dados do painel v20)
+# INSTALAÇÃO BACKUP-PAINEL-V20 (Script de restauração da base de dados do painel v20)
 
 ```bash <(wget -qO- https://raw.githubusercontent.com/NT-GIT-HUB/PAINEL-V2.0/main/restaurar.sh)```
 
