@@ -5,16 +5,16 @@ __Recomendado__
 
 __Comando para instalar__
 
-```apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/NT-GIT-HUB/PAINEL-V20/main/install; chmod 777 install && ./install```
+```apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/NT-GIT-HUB/PAINEL-V2.0/main/install; chmod 777 install && ./install```
 
 __Comando para instalar new__
 
-```apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/NT-GIT-HUB/PAINEL-V20/main/install_new; chmod 777 install_new && ./install_new```
+```apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/NT-GIT-HUB/PAINEL-V2.0/main/install_new; chmod 777 install_new && ./install_new```
 
 -------------------------------------------------------------------------------
 # SINCRONIZAR PAINEL WEB
 
-```bash <(wget -qO- https://raw.githubusercontent.com/NT-GIT-HUB/PAINEL-V20/main/modulos/inst)```
+```bash <(wget -qO- https://raw.githubusercontent.com/NT-GIT-HUB/PAINEL-V2.0/main/modulos/inst)```
 
 -------------------------------------------------------------------------------
 # TUTORIAL DE COMO IMPORTAR O BANCO DE DADOS (painel.sql)  EM UM NOVO PAINEL
@@ -25,7 +25,7 @@ __Comando para instalar new__
 
 # INSTALA��O BACKUP-PAINEL-V20 (Script de restauração da base de dados do painel v20)
 
-```bash <(wget -qO- https://raw.githubusercontent.com/NT-GIT-HUB/PAINEL-V20/main/restaurar.sh)```
+```bash <(wget -qO- https://raw.githubusercontent.com/NT-GIT-HUB/PAINEL-V2.0/main/restaurar.sh)```
 
 OBS: A SENHA ADMIN SERA A MESMA SENHA DO PAINEL ANTERIOR !
 -------------------------------------------------------------------------------
