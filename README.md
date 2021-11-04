@@ -34,4 +34,4 @@ __OBS: A SENHA ADMIN SERA A MESMA SENHA DO PAINEL ANTERIOR !__
 #
 #
 #
-![logo](https://github.com/fabricio94b/Painel-v20/blob/main/home.png)
+![logo](https://github.com/NT-GIT-HUB/PAINEL-V2.0/blob/main/home.png)
