@@ -28,6 +28,7 @@ __INSTALAÇÃO BACKUP-PAINEL-V20 (Script de restauração da base de dados do pa
 ```bash <(wget -qO- https://raw.githubusercontent.com/NT-GIT-HUB/PAINEL-V2.0/main/restaurar.sh)```
 
 __OBS: A SENHA ADMIN SERA A MESMA SENHA DO PAINEL ANTERIOR !__
+
 -------------------------------------------------------------------------------
 
 #
