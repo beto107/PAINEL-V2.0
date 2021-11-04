@@ -4,13 +4,7 @@
 # CANAL OFICIAL @PAINEL (TELEGRAM)
 #----------------------------------------------------------------------
 clear
-crz=$(echo -e "\033[1;31m           @Crazy_vpn\033[1;32m")
-echo """              $crz             
- _____ _____ _____ _____ _         
-|   __|   __|  |  |  _  | |_ _ ___ 
-|__   |__   |     |   __| | | |_ -|
-|_____|_____|__|__|__|  |_|___|___|
-                      """
+
 echo -e "\033[1;33mESSE SCRIPT RESTAURA O BANCO DE DADOS\n(BACKUP) DO PAINEL PAINEL V20 !\033[0m" 
 echo -e "\n\033[1;33m� NECESS�RIO O PAINEL INSTALADO E O\nAQUIVO (\033[1painel.sql.sql\033[1;33m) NO DIRETORIO ROOT !\033[0m\n" 
 echo -ne "\033[1;32mEnter para continuar...\033[0m"; read
